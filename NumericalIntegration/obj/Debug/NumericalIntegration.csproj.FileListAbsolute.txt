@@ -1,0 +1,6 @@
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.exe.config
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.csprojResolveAssemblyReference.cache
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.exe
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\bin\Debug\NumericalIntegration.pdb
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.exe
+c:\users\joanna\documents\visual studio 2012\Projects\NumericalIntegration\NumericalIntegration\obj\Debug\NumericalIntegration.pdb
